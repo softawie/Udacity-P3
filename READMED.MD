@@ -38,8 +38,11 @@
     then create user with admin permissions just for succees in all tested
 
     4. `npm run build` for build the project in path we need (assume it /www)
+
        `eb init` for initiate Elastic Beanstalk
+
        `eb create` for upload the build archive to the Elastic Beanstalk
+
        `eb deploy` for deploy any future changes
 
 4.  RDS - Create Postgres DB
